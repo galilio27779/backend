@@ -1,5 +1,5 @@
 <?php
 $name="Mohammed Ali";
-echo "WELCOME - <br>Your name is : </br> ";
+echo "  <h3>  WELCOME - <h1><br>Your name is :  <u>";
 echo ($name);
 ?>
